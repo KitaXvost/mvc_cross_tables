@@ -1,2 +1,2 @@
 <?php
-  define('URL', 'https://22zz.ru/ILS/mvc/');
+  define('URL', 'https://22zz.ru/ILS/mvc2/');
